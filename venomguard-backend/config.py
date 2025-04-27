@@ -12,5 +12,5 @@ class Config:
     )
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     
-    os.environ["GOOGLE_MAPS_API_KEY"] = "AIzaSyBg4oslsFvPwqr-TkXXg1jHexNFEHGmmuI"
+    
 
